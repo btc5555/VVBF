@@ -1,1 +1,3 @@
-# VVBF
+.. _general_examples:
+
+Examples
